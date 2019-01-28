@@ -1,5 +1,6 @@
 // Julia Sato, November 14 2018
 // Created for APCS in the Cloud9 IDE
+// Finds, counts, and prints all emails in a text file with emails scattered throughout it.
 
 import java.io.*;
 
