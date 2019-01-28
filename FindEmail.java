@@ -1,3 +1,6 @@
+// Julia Sato, November 14 2018
+// Created for APCS in the Cloud9 IDE
+
 import java.io.*;
 
 public class FindEmail{
